@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6DF-B7-Smw"; */
+"6DF-B7-Smw.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "$"; ObjectID = "89Q-d6-nd4"; */
+"89Q-d6-nd4.normalTitle" = "$";
+
+/* Class = "UILabel"; text = "MPH"; ObjectID = "8EJ-G8-Z9j"; */
+"8EJ-G8-Z9j.text" = "MPH";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G8W-tB-DKF"; */
+"G8W-tB-DKF.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "☀︎☽"; ObjectID = "RSc-z1-WJu"; */
+"RSc-z1-WJu.normalTitle" = "☀︎☽";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bEy-Xg-dQ4"; */
+"bEy-Xg-dQ4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cWk-cL-89l"; */
+"cWk-cL-89l.text" = "Label";
+
+/* Class = "UILabel"; text = "Ft & Inch"; ObjectID = "cnz-kk-2KH"; */
+"cnz-kk-2KH.text" = "Ft & Inch";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gc8-2w-gNc"; */
+"gc8-2w-gNc.text" = "Label";
+
+/* Class = "UILabel"; text = "KM/HR"; ObjectID = "iFi-Ae-uj6"; */
+"iFi-Ae-uj6.text" = "KM/HR";
+
+/* Class = "UIButton"; normalTitle = "⇌"; ObjectID = "qWS-NO-L6w"; */
+"qWS-NO-L6w.normalTitle" = "⇌";
+
+/* Class = "UILabel"; text = "CM"; ObjectID = "sUg-T2-Kee"; */
+"sUg-T2-Kee.text" = "CM";

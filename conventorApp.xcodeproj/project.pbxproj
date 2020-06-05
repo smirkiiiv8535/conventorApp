@@ -7,15 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1707E48324869F4F00B75984 /* sportConventor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1707E48224869F4F00B75984 /* sportConventor.swift */; };
+		172627672488E28800AE2EFB /* weightChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172627662488E28800AE2EFB /* weightChange.swift */; };
+		172627692488E47200AE2EFB /* heightChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172627682488E47200AE2EFB /* heightChange.swift */; };
 		178D57D4246927B400B120B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178D57D3246927B400B120B9 /* AppDelegate.swift */; };
 		178D57D6246927B400B120B9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178D57D5246927B400B120B9 /* SceneDelegate.swift */; };
 		178D57D8246927B400B120B9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178D57D7246927B400B120B9 /* ViewController.swift */; };
 		178D57DB246927B400B120B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 178D57D9246927B400B120B9 /* Main.storyboard */; };
 		178D57DD246927B600B120B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 178D57DC246927B600B120B9 /* Assets.xcassets */; };
 		178D57E0246927B600B120B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 178D57DE246927B600B120B9 /* LaunchScreen.storyboard */; };
+		178D57EA24693B9600B120B9 /* moneyConventor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178D57E924693B9600B120B9 /* moneyConventor.swift */; };
+		178D57EC24693BB600B120B9 /* timeConventor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178D57EB24693BB600B120B9 /* timeConventor.swift */; };
+		17E78D5824863738006EDB36 /* speedChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17E78D5724863738006EDB36 /* speedChange.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1707E48224869F4F00B75984 /* sportConventor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sportConventor.swift; sourceTree = "<group>"; };
+		172627662488E28800AE2EFB /* weightChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weightChange.swift; sourceTree = "<group>"; };
+		172627682488E47200AE2EFB /* heightChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = heightChange.swift; sourceTree = "<group>"; };
 		178D57D0246927B400B120B9 /* conventorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = conventorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		178D57D3246927B400B120B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		178D57D5246927B400B120B9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +33,9 @@
 		178D57DC246927B600B120B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		178D57DF246927B600B120B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		178D57E1246927B600B120B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		178D57E924693B9600B120B9 /* moneyConventor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = moneyConventor.swift; sourceTree = "<group>"; };
+		178D57EB24693BB600B120B9 /* timeConventor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = timeConventor.swift; sourceTree = "<group>"; };
+		17E78D5724863738006EDB36 /* speedChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = speedChange.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,10 @@
 		178D57D2246927B400B120B9 /* conventorApp */ = {
 			isa = PBXGroup;
 			children = (
+				17E78D542486366F006EDB36 /* conventerFolder */,
+				178D57E924693B9600B120B9 /* moneyConventor.swift */,
+				1707E48224869F4F00B75984 /* sportConventor.swift */,
+				178D57EB24693BB600B120B9 /* timeConventor.swift */,
 				178D57D3246927B400B120B9 /* AppDelegate.swift */,
 				178D57D5246927B400B120B9 /* SceneDelegate.swift */,
 				178D57D7246927B400B120B9 /* ViewController.swift */,
@@ -65,6 +81,16 @@
 				178D57E1246927B600B120B9 /* Info.plist */,
 			);
 			path = conventorApp;
+			sourceTree = "<group>";
+		};
+		17E78D542486366F006EDB36 /* conventerFolder */ = {
+			isa = PBXGroup;
+			children = (
+				17E78D5724863738006EDB36 /* speedChange.swift */,
+				172627662488E28800AE2EFB /* weightChange.swift */,
+				172627682488E47200AE2EFB /* heightChange.swift */,
+			);
+			path = conventerFolder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,6 +166,12 @@
 			files = (
 				178D57D8246927B400B120B9 /* ViewController.swift in Sources */,
 				178D57D4246927B400B120B9 /* AppDelegate.swift in Sources */,
+				178D57EC24693BB600B120B9 /* timeConventor.swift in Sources */,
+				172627672488E28800AE2EFB /* weightChange.swift in Sources */,
+				178D57EA24693B9600B120B9 /* moneyConventor.swift in Sources */,
+				17E78D5824863738006EDB36 /* speedChange.swift in Sources */,
+				1707E48324869F4F00B75984 /* sportConventor.swift in Sources */,
+				172627692488E47200AE2EFB /* heightChange.swift in Sources */,
 				178D57D6246927B400B120B9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
